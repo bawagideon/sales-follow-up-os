@@ -1,0 +1,17 @@
+{
+  "name": "sales-follow-up-os",
+  "version": "1.0.0",
+  "description": "Autonomous promise extraction engine that parses meeting notes, extracts verbal commitments made to prospects (\"I will send pricing tomorrow\"), and schedules automated drafts.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test test/sales-follow-up-os.test.js"
+  },
+  "keywords": [
+    "commitment-tracker",
+    "follow-up-os",
+    "sales-enablement",
+    "nlp-commitments"
+  ],
+  "author": "Gideon Bawa <bawagideon@gmail.com>",
+  "license": "MIT"
+}
